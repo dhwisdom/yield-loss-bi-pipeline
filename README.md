@@ -1,4 +1,4 @@
-# food-supply-chain
+# yield-loss-bi-pipeline
 Simple BI pipeline leveraging yield loss by product utilizing data warehousing techniques
 
 Goal:
